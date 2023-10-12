@@ -1,0 +1,32 @@
+body{
+  background-color: #451952;
+}
+h1{
+  font-size: 40px;
+  font-family: 'Roboto', sans-serif;
+  color: #F39F5A;
+  margin-top: 3%;
+}
+label{
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 2%;
+  color: #fff;
+}
+option{
+  color: #662549;
+  font-weight: bold;
+}
+
+p{
+  font-size: 25px;
+  margin-top: 2%;
+  color: #fff;
+}
+
+#answer{
+  font-size: 20px;
+  margin-top: 2%;
+  color: red;
+
+}
