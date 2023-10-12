@@ -2,7 +2,7 @@ body{
   background-color: #451952;
 }
 h1{
-  font-size: 45px;
+  font-size: 50px;
   font-family: 'Roboto', sans-serif;
   color: #F39F5A;
   margin-top: 3%;
@@ -25,7 +25,7 @@ p{
 }
 
 #answer{
-  font-size: 25px;
+  font-size: 30px;
   margin-top: 2%;
   color: red;
 
